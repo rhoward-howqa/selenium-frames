@@ -1,0 +1,16 @@
+{
+  "name": "seleniumIframes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.1",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
